@@ -1,0 +1,9 @@
+[package]
+name = "debug-builders"
+version = "0.1.0"
+authors = ["The Rust Project Developers"]
+license = "MIT/Apache-2.0"
+description = "A copy of libstd's debug builders for use before they stabilize"
+repository = "https://github.com/sfackler/rust-debug-builders"
+documentation = "https://sfackler.github.io/rust-debug-builders/doc/debug_builders"
+readme = "README.md"
